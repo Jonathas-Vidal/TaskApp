@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Task - Create and Manage Your Tasks</string>
+
+    <!--     Status Task  -->
+    <string name="status_task_todo">A Fazer</string>
+    <string name="status_task_doing">Fazendo</string>
+    <string name="status_task_done">Feitas</string>
+
+
+    <!-- Generic -->
+    <string name="bottom_sheet_title">Atenção</string>
+    <string name="bottom_sheet_button">Entendi</string>
+    <string name="email_empty">Preencha seu e-mail.</string>
+    <string name="password_empty">Preencha sua senha.</string>
+    <string name="text_email">E-mail</string>
+    <string name="text_password">Senha</string>
+    <string name="hint_email">Digite seu e-mail:</string>
+    <string name="hint_password">Digite sua senha:</string>
+
+    <!-- Login Fragment -->
+    <string name="btn_login">Login</string>
+
+    <!-- Register Fragment -->
+
+    <!--    Dialog strings-->
+    <string name="email_empty_register_fragment">Preencha um e-mail válido.</string>
+    <string name="password_empty_register_fragment">Preencha uma senha.</string>
+
+    <string name="text_message_recovery_account">Um email de recuperação foi enviado.</string>
+
+    <string name="confirm_logout_text_home_fragment">Tem certeza que deseja sair?</string>
+    <string name="confirm_logout_button_home_fragment">Sair</string>
+    <string name="text_message_dialog_confirm_logout">Aperte em Sair para deslogar.</string>
+
+    <!--    Components Strings-->
+    <string name="text_create_account_title">Criar conta</string>
+    <string name="btn_create_account">Criar conta</string>
+
+    <!-- Form Task Fragment -->
+    <string name="empty_task_description">Insira uma descrição.</string>
+
+    <string name="title_new_task">Nova tarefa</string>
+    <string name="text_description">Descrição</string>
+    <string name="hint_description">Criar nova tela de login</string>
+    <string name="text_task_status">Status</string>
+    <string name="btn_save_task">Salvar</string>
+    <string name="todo_task">A fazer</string>
+    <string name="doing_task">Fazendo</string>
+    <string name="done_task">Feitas</string>
+
+
+    <!--    Recovery Fragment-->
+    <string name="text_recovery_account">Recuperar conta</string>
+    <string name="text_recovery_instructions">Informe seu e-mail de cadastro para receber as instruções e alterar sua senha :)</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
